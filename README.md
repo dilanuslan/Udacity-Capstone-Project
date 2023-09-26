@@ -19,7 +19,7 @@ There is a Jupyter notebook (Sparkify.ipynb) to store and show the work that has
 
 ## Summary of the Results
 
-The details of the project can be found on my [Medium Blog post](www.medium.com) Logistic Regression algorithm had the best performance with 83% F1-score and 85% accuracy.
+The details of the project can be found on my [Medium Blog post](https://medium.com/@dilanuslan_40749/sparkify-churn-prediction-with-pyspark-f107e9c08f29) Logistic Regression algorithm had the best performance with 83% F1-score and 85% accuracy.
 
 ## Acknowledgements
 
